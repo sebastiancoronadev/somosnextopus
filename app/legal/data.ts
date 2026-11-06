@@ -185,13 +185,30 @@ g) Uso de versiones, plugins, mods, librerías, dependencias o software desactua
 
 12.4. La Agencia podrá cancelar cualquier proyecto si detecta incumplimiento, falta de pago, uso indebido, riesgo legal, comportamiento abusivo, amenazas, difamación, intento de extorsión, regateo agresivo o cualquier conducta inapropiada.
 
-## 13. Prohibición de Regateo y Presión Comercial
+
+## 13. Exención de Responsabilidad Fiscal y Regulatoria
+
+13.1. El Cliente reconoce y acepta que la Agencia es un proveedor de servicios tecnológicos y de desarrollo de software, y NO asume el rol de asesor fiscal, contable, legal o tributario.
+
+13.2. En consecuencia, la Agencia no será responsable bajo ninguna circunstancia por:
+
+a) Multas, sanciones, clausuras o penalizaciones impuestas por entidades gubernamentales o regulatorias (como el SENIAT, municipios, aduanas, etc.).
+
+b) Errores u omisiones en la declaración de impuestos, retenciones o contribuciones parafiscales del Cliente.
+
+c) El incumplimiento por parte del Cliente de las normativas fiscales, contables o legales vigentes en su jurisdicción.
+
+d) La incorrecta configuración, uso o interpretación de los datos fiscales generados por el sistema entregado.
+
+13.3. La Agencia entrega herramientas técnicas y el Cliente es el único responsable de su correcta utilización y de cumplir con todas las obligaciones legales y tributarias aplicables.
+
+## 14. Prohibición de Regateo y Presión Comercial
 
 13.1. El cliente acepta que los precios de la Agencia no son negociables. No se aceptan regateos, chantajes, comparaciones despectivas, amenazas de mala reseña, presión pública, difamación, intentos de manipulación o solicitudes de "precio de amigo", "descuento por volumen no acordado", "trabajo gratis a cambio de exposición" o similares.
 
 13.2. Cualquier intento de obtener descuentos, rebajas, favores, servicios gratuitos, extensiones no pagadas o beneficios no cotizados podrá resultar en cancelación inmediata de la relación comercial, sin devolución y con posible acción legal si corresponde.
 
-## 14. Limitación de Responsabilidad
+## 15. Limitación de Responsabilidad
 
 14.1. La responsabilidad total de la Agencia, en cualquier caso, se limita al monto efectivamente pagado por el cliente por el servicio específico que dio origen al reclamo.
 
@@ -199,11 +216,11 @@ g) Uso de versiones, plugins, mods, librerías, dependencias o software desactua
 
 14.3. El cliente renuncia expresamente a reclamar indemnizaciones superiores al monto pagado, así como a demandas colectivas, class actions, reclamos masivos o acciones derivadas de expectativas no acordadas por escrito.
 
-## 15. Indemnización
+## 16. Indemnización
 
 15.1. El cliente se obliga a indemnizar, defender y mantener indemne a la Agencia, sus directores, socios, empleados, contratistas, colaboradores, proveedores y representantes frente a cualquier reclamo, demanda, juicio, denuncia, multa, sanción, pérdida, costo, honorario legal o daño derivado de: el uso que el cliente o terceros hagan de los servicios, el contenido, datos, archivos o materiales proporcionados por el cliente, el incumplimiento de estos Términos y Condiciones, la violación de derechos de terceros, actividades ilegales, fraudulentas o prohibidas, y declaraciones falsas o información incorrecta.
 
-## 16. Modificaciones a los Términos
+## 17. Modificaciones a los Términos
 
 16.1. La Agencia podrá modificar, actualizar, ampliar o reemplazar estos Términos y Condiciones en cualquier momento, sin necesidad de aviso previo.
 
@@ -211,7 +228,7 @@ g) Uso de versiones, plugins, mods, librerías, dependencias o software desactua
 
 16.3. Es responsabilidad del cliente revisar periódicamente estos Términos y Condiciones.
 
-## 17. Ley Aplicable y Jurisdicción
+## 18. Ley Aplicable y Jurisdicción
 
 17.1. Estos Términos y Condiciones se regirán por las leyes del país o jurisdicción que la Agencia determine en sus documentos oficiales.
 
@@ -219,7 +236,7 @@ g) Uso de versiones, plugins, mods, librerías, dependencias o software desactua
 
 17.3. Antes de iniciar cualquier acción legal, las partes se comprometen a intentar una resolución amistosa mediante comunicación directa por escrito.
 
-## 18. Disposiciones Finales
+## 19. Disposiciones Finales
 
 18.1. Si cualquier cláusula de estos Términos y Condiciones fuera declarada inválida, ilegal o inaplicable, el resto de las cláusulas continuarán vigentes y en pleno efecto.
 
@@ -231,13 +248,13 @@ g) Uso de versiones, plugins, mods, librerías, dependencias o software desactua
 
 18.5. AL SOLICITAR CUALQUIER SERVICIO, EL CLIENTE ACEPTA ESTOS TÉRMINOS Y CONDICIONES EN SU TOTALIDAD, SIN RESERVAS, EXCEPCIONES NI MODIFICACIONES NO AUTORIZADAS POR ESCRITO POR LA AGENCIA.
 
-## 19. Contacto
+## 20. Contacto
 
 19.1. Para consultas, aclaraciones o comunicaciones oficiales, el cliente deberá utilizar los canales de contacto publicados por la Agencia.
 
 19.2. La Agencia no se responsabiliza por mensajes, acuerdos, promesas o compromisos realizados por terceros no autorizados, empleados sin facultad, intermediarios, revendedores o personas ajenas a la empresa.
 
-## 20. Declaración Final del Cliente
+## 21. Declaración Final del Cliente
 
 20.1. El cliente reconoce que ha leído estos Términos y Condiciones, que los entiende, que ha tenido oportunidad de consultar dudas, que acepta todas sus cláusulas y que entiende que al solicitar cualquier servicio queda legalmente obligado por este documento.
 
