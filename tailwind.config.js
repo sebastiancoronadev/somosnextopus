@@ -9,9 +9,9 @@ const colors = {
 
 module.exports = {
   content: [
-    "./app*.{ts,tsx}",
-    "./app/components*.{ts,tsx}",
-    "./app/lib*.{ts,tsx}"
+    "./app/**/*.{ts,tsx}",
+    "./app/components/**/*.{ts,tsx}",
+    "./app/lib/**/*.{ts,tsx}"
   ],
   theme: {
     extend: {
